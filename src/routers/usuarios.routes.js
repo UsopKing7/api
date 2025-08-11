@@ -8,4 +8,4 @@ router.post('/crear/usuario', createUser) // para insertar usuarios
 
 
 router.patch('/actualizar/usuario/:id', updateUser) // para actualizar un usuario
-router.delete('/eliminar/usuario/:id') // para eliminar un usuario 
+// router.delete('/eliminar/usuario/:id') // para eliminar un usuario 
